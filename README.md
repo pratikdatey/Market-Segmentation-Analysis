@@ -8,7 +8,8 @@ each campaign can be highly targeted and precise to the characteristics of each 
 depends on which group they’re targeting.
 
 
-Types of market segmentation
+
+Types of market segmentation -
 
 - Demographic segmentation
 
