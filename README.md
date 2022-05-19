@@ -1,6 +1,6 @@
 # Market-Segmentation-Analysis (Study Task)
 
-- Definition
+Definition -
 
 Market segmentation analysis is the study of customers, divided into smaller groups, to understand their specific characteristics like 
 behavior, age, income, and personality. It’s easier for companies to advertise when they’re marketing a smaller segment of customers; this way, 
